@@ -1,0 +1,6 @@
+{
+  "name": "Live Dashboard",
+  "description": "Ultra premium landscape ambient digital clock, weather station, astronomy display, and customizable live dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
